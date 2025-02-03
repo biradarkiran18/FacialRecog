@@ -1,4 +1,4 @@
-cat <<EOL > README.md
+
 ## Real-Time Face Recognition with Streamlit
 
 This project is a real-time face recognition application built using Streamlit, OpenCV, and the \`face_recognition\` library. The app allows users to upload a known face image and then use their webcam to recognize and label detected faces in real time.
@@ -14,23 +14,18 @@ This project is a real-time face recognition application built using Streamlit, 
 #### Prerequisites
 Ensure you have Python installed on your system. You also need to install the required dependencies.
 
-#### Clone the Repository
-\`\`\`sh
-git clone https://github.com/your-username/real-time-face-recognition.git
-cd real-time-face-recognition
-\`\`\`
+
 
 #### Install Dependencies
-\`\`\`sh
+
 pip install -r requirements.txt
-\`\`\`
+
 
 ### Usage
 
 #### Run the Application
-\`\`\`sh
+
 streamlit run app.py
-\`\`\`
 
 #### Steps to Use
 1. Upload a known face image (JPG, JPEG, PNG format).
@@ -61,6 +56,6 @@ streamlit run app.py
 This project is open-source and available under the MIT License.
 
 ### Author
-[Your Name](https://github.com/biradarkiran18)
+[Kiran Biradar](https://github.com/biradarkiran18)
 
-EOL
+
